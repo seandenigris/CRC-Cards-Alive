@@ -1,0 +1,17 @@
+{
+	"category" : "LivingCrcCards-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"card",
+		"subjectClassName",
+		"responsibilities",
+		"collaborators" ],
+	"name" : "LivingCrcCardUI",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

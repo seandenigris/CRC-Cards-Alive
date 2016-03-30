@@ -1,0 +1,3 @@
+class
+subjectClassName
+	^ subjectClassName

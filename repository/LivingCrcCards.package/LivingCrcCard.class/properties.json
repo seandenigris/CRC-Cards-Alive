@@ -1,0 +1,17 @@
+{
+	"category" : "LivingCrcCards",
+	"classinstvars" : [
+		"stack" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subjectClassName",
+		"responsibilities",
+		"collaborators",
+		"announcer" ],
+	"name" : "LivingCrcCard",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

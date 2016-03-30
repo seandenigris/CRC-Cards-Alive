@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCrcCards-Annoucements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LcCollaboratorsChanged",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }
