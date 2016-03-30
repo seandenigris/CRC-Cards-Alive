@@ -1,0 +1,17 @@
+{
+	"category" : "CrcCardsAlive-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"card",
+		"subjectClassName",
+		"responsibilities",
+		"collaborators" ],
+	"name" : "CrcCardUI",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

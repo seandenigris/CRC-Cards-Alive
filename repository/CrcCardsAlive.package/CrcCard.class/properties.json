@@ -1,0 +1,17 @@
+{
+	"category" : "CrcCardsAlive",
+	"classinstvars" : [
+		"stack" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subjectClassName",
+		"responsibilities",
+		"collaborators",
+		"announcer" ],
+	"name" : "CrcCard",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

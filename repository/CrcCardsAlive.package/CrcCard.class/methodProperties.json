@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"for:" : "SeanDeNigris 5/1/2015 12:01",
+		"fromStackFor:" : "SeanDeNigris 5/1/2015 12:17",
+		"restoreStack" : "SeanDeNigris 5/4/2015 01:03",
+		"saveStack" : "SeanDeNigris 5/4/2015 01:03",
+		"stack" : "SeanDeNigris 5/1/2015 12:15",
+		"stack:" : "SeanDeNigris 5/1/2015 11:57",
+		"stonAllInstVarNames" : "SeanDeNigris 5/1/2015 22:19",
+		"updateStack" : "SeanDeNigris 5/1/2015 22:23" },
+	"instance" : {
+		"announce:" : "SeanDeNigris 5/1/2015 12:48",
+		"announcer" : "SeanDeNigris 5/1/2015 12:45",
+		"beResponsibleFor:" : "SeanDeNigris 3/30/2016 10:42",
+		"collaborateWith:" : "SeanDeNigris 3/30/2016 10:42",
+		"collaborators" : "SeanDeNigris 4/29/2015 23:35",
+		"collaborators:" : "SeanDeNigris 4/29/2015 23:06",
+		"open" : "SeanDeNigris 3/30/2016 10:42",
+		"responsibilities" : "SeanDeNigris 5/1/2015 12:34",
+		"responsibilities:" : "SeanDeNigris 4/29/2015 23:06",
+		"subjectClass" : "SeanDeNigris 5/1/2015 12:13",
+		"subjectClass:" : "SeanDeNigris 5/1/2015 12:13",
+		"subjectClassName" : "SeanDeNigris 5/1/2015 12:03",
+		"subjectClassName:" : "SeanDeNigris 5/1/2015 12:03",
+		"when:send:to:" : "SeanDeNigris 5/1/2015 12:52" } }
