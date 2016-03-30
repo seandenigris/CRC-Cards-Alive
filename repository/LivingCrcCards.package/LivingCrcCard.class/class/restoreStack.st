@@ -9,7 +9,9 @@ restoreStack
 	},
 	#TxModel : LivingCrcCard {
 		#subjectClassName : #TxModel,
-		#responsibilities : Bag [ ],
+		#responsibilities : Bag [
+			''organize spans''
+		],
 		#collaborators : Bag [
 			#TxTextStyles,
 			#TxBasicSpan

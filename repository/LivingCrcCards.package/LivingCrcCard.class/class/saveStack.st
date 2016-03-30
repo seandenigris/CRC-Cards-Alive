@@ -11,4 +11,4 @@ saveStack
 		sourceCodeAt: constructorMessage
 		ifAbsent: [ '' ].
 	newSource = existingSource ifTrue: [ ^ self ].
-	self class compile: newSource classified: 'stack-storage'
+	self class compile: newSource classified: 'storage'

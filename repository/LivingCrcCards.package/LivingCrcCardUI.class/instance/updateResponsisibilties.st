@@ -1,0 +1,3 @@
+updating
+updateResponsisibilties
+	self responsibilities items: self card responsibilities

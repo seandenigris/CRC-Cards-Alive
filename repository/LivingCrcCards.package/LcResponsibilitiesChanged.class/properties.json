@@ -10,5 +10,5 @@
 	"name" : "LcResponsibilitiesChanged",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Announcement",
 	"type" : "normal" }
