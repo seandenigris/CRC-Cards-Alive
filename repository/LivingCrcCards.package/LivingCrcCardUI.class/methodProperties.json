@@ -1,12 +1,13 @@
 {
 	"class" : {
-		"defaultSpec" : "SeanDeNigris 5/1/2015 12:35",
+		"defaultSpec" : "SeanDeNigris 5/1/2015 14:03",
 		"openOn:" : "SeanDeNigris 5/1/2015 12:41" },
 	"instance" : {
 		"card" : "SeanDeNigris 5/1/2015 12:30",
 		"card:" : "SeanDeNigris 5/1/2015 12:51",
 		"collaborators" : "SeanDeNigris 5/1/2015 12:33",
-		"initializeWidgets" : "SeanDeNigris 5/1/2015 12:32",
+		"initializePresenter" : "SeanDeNigris 5/1/2015 14:02",
+		"initializeWidgets" : "SeanDeNigris 5/1/2015 14:03",
 		"responsibilities" : "SeanDeNigris 5/1/2015 12:33",
 		"subjectClassName" : "SeanDeNigris 5/1/2015 12:33",
 		"title" : "SeanDeNigris 5/1/2015 12:39",

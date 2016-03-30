@@ -7,6 +7,6 @@ defaultSpec
 			container
 				newColumn: [ :left |
 					left
-						newRow: [ :topLeft | topLeft add: #subjectClassName ] height: 25;
+						newRow: [ :topLeft | topLeft add: #subjectClassName ] height: 30;
 						newRow: [ :bottomLeft | bottomLeft add: #responsibilities ] ];
 				newColumn: [ :right | right add: #collaborators ] ]
