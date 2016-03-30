@@ -1,3 +1,3 @@
 SystemOrganization addCategory: #LivingCrcCards!
-SystemOrganization addCategory: 'LivingCrcCards-Annoucements'!
+SystemOrganization addCategory: 'LivingCrcCards-Announcements'!
 SystemOrganization addCategory: 'LivingCrcCards-UI'!
