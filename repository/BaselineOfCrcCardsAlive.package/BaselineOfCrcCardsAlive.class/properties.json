@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfCrcCardsAlive",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfCrcCardsAlive",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
